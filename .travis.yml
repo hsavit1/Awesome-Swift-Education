@@ -1,0 +1,8 @@
+
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot README.md --allow-redirect --allow-dupe --white-list linkedin.com/jobs/swift-jobs,mattrajca.com,quora.com,blog.tackmobile.com,swiftdoc.org,safaribooksonline,iosinsight,littlebitesofcocoa,swifting.io,twilio,dancounsell,reddit
