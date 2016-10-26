@@ -41,6 +41,7 @@
         - Difference between Swift 2.0 protocol extensions and Java/C# abstract classes? [:page_facing_up:](http://stackoverflow.com/questions/30943209/is-there-a-difference-between-swift-2-0-protocol-extensions-and-java-c-abstract/30945263#30945263)
     - Kotlin
         - Swift is like Kotlin [:page_facing_up:](https://nilhcem.github.io/swift-is-like-kotlin/)
+        - Kotlift is the first source-to-source language transpiler from Kotlin to Swift [:pencil2:](https://github.com/moshbit/Kotlift)
     - Android
         - How to Start Android Development with an iOS Background [:page_facing_up:](http://savvyapps.com/blog/how-to-start-android-development-with-an-ios-background)
         - Faceoff: Android vs. iOS [:microphone:](https://realm.io/news/appbuilders-kriplaney-vieira-ios-android-faceoff/)
@@ -68,12 +69,6 @@
         - Comparing Protocols and Extensions in Swift and Elixir [:page_facing_up:](http://blog.plataformatec.com.br/2014/06/comparing-protocols-and-extensions-in-swift-and-elixir/)
     - Groovy
         - Apple's Swift programming language inspired by Groovy [:page_facing_up:](http://glaforge.appspot.com/article/apple-s-swift-programming-language-inspired-by-groovy)
-    - React Native
-		- Tutorial: Custom React Native Components in Swift [:page_facing_up:](http://kevin-deleon.com/2015/05/custom-react-native-components-in-swift/)
-		- Bridge a Swift view in React Native [:page_facing_up:](http://browniefed.com/blog/react-native-how-to-bridge-a-swift-view/)
-        - Creating a Swift-ReactNative project [:pencil:](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
-        - Swift Modules for React Native [:page_facing_up:](http://moduscreate.com/swift-modules-for-react-native/)
-        - Swift to React Native [:floppy_disk:](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0)
     + ObjC
         + How is Swift Faster than Objective-C? [:page_facing_up:](https://www.quora.com/How-is-Swift-faster-than-Objective-C)
         - A Eulogy for Objective C [:microphone:](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)

@@ -22,6 +22,7 @@
     - Multiple Managed Object Contexts [:page_facing_up:](http://www.raywenderlich.com/113489/core-data-tutorial-multiple-managed-object-contexts)
     - Getting Started with Moya [:page_facing_up:](http://marginalfutility.net/2015/10/04/moya/)
     - Modern Core Data [:microphone:](https://realm.io/news/tryswift-daniel-eggert-modern-core-data/)
+    - NSFetchedResultsController Woes [:page_facing_up:](https://medium.com/bpxl-craft/nsfetchedresultscontroller-woes-3a9b485058#.sgwivx5cb)
 - Realm
     - Super simple Realm Intro [:page_facing_up:](https://littlebitesofcocoa.com/49-realm-basics) [:floppy_disk:](https://speakerdeck.com/jpsim/realm-in-swift) [:page_facing_up:](http://theiostimes.com/advent-calendar/realm.html)
     - A look into Realm's Core DB Engine [:microphone:](https://realm.io/news/jp-simard-realm-core-database-engine/)

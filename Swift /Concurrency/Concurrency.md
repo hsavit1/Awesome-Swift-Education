@@ -26,6 +26,7 @@
     - Async Await in Swift [:pencil:](https://gist.github.com/kylesluder/478bf8fd8232bc90eabd) [:pencil2:](https://github.com/jyopp/Swift-Async)
     - Asynchronous values as first-class citizens [:page_facing_up:](http://www.thomasvisser.me/2015/11/26/async-swift/)
     - A non-blocking I/O, asynchronous ODM [:pencil2:](https://github.com/elliottminns/orca)
+    - ES7 async await in Swift [:pencil2:](https://github.com/yannickl/AwaitKit)
 - Actor Model
     + Actor Model Concurrency in Swift [:pencil2:](https://github.com/tomekc/SwiftActors)
     - Swift Actors [:pencil:](https://github.com/tomekc/SwiftActors)

@@ -45,11 +45,9 @@
 - Promises In Swift [:page_facing_up:](http://khanlou.com/2016/08/promises-in-swift/)
 - iOS10 Day by Day [:pencil2:](https://github.com/shinobicontrols/iOS10-day-by-day)
 - React.js in Swift [:page_facing_up:](http://blog.scottlogic.com/2015/03/05/reactjs-in-swift.html)
-
 - StyleKit [:pencil2:](https://github.com/146BC/StyleKit)
 - Creating a Swift-ReactNative project [:pencil:](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
 - Swift Modules for React Native [:page_facing_up:](http://moduscreate.com/swift-modules-for-react-native/)
-- Creating a Swift-ReactNative project [:page_facing_up:](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
 - React Native - How to bridge a Swift View [:page_facing_up:](http://browniefed.com/blog/react-native-how-to-bridge-a-swift-view/)
 - Dependencies of your SwiftPM packages as a service [:pencil2:](https://github.com/czechboy0/swiftpm-dependency-fetcher)
 - ES7 async await in Swift [:pencil2:](https://github.com/yannickl/AwaitKit)
@@ -63,6 +61,8 @@
 - Case Closed: A Dive into Open Enumerations [:page_facing_up:](http://jasdev.me/open-enums)
 - Behind the Scenes with iOS Security [:floppy_disk:](https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf)
 - Structs and mutation in Swift [:page_facing_up:](http://chris.eidhof.nl/post/structs-and-mutation-in-swift/)
+
+-- Havent Integrated Yet -- 
 - A Swift DSL that allows concise and effective concurrency manipulation [:pencil2:](https://github.com/jmfieldman/Brisk)
 - SwiftJava [:pencil2:](https://github.com/SwiftJava/SwiftJava)
 - A UIView that uses Flexbox for layouting [:pencil2:](https://github.com/robb/FLXView)

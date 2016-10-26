@@ -10,3 +10,4 @@
 - Make iOS apps more secure with SSL pinning [:page_facing_up:](https://infinum.co/the-capsized-eight/articles/how-to-make-your-ios-apps-more-secure-with-ssl-pinning)
 - Security Framework Wrapper [:pencil2:](https://github.com/henrinormak/Heimdall)
 - SwCrypt [:pencil2:](https://github.com/soyersoyer/SwCrypt)
+- Behind the Scenes with iOS Security [:floppy_disk:](https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf)

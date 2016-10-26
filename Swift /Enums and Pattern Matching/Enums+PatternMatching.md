@@ -29,6 +29,8 @@
     - No-case Enums? [:page_facing_up:](http://ericasadun.com/2016/07/18/dear-erica-no-case-enums/)
     - Swift Either Enum [:page_facing_up:](http://www.mokacoding.com/blog/swift-either/)
     - Enums as configuration: the anti-pattern [:page_facing_up:](http://www.jessesquires.com/enums-as-configs/)
+    - Using Swift’s Enums for Quick Actions [:page_facing_up:](https://medium.com/the-traveled-ios-developers-guide/using-swifts-enums-for-quick-actions-a08c0f6d5b8b#.145qumjsr)
+    - Case Closed: A Dive into Open Enumerations [:page_facing_up:](http://jasdev.me/open-enums)
 + Pattern Matching
     + Official Docs [:pencil:](https://github.com/apple/swift/blob/master/docs/PatternMatching.rst)
     - Pattern Matching [:page_facing_up:](http://alisoftware.github.io/swift/pattern-matching/2016/03/27/pattern-matching-1/)

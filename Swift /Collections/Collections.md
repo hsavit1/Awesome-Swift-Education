@@ -48,3 +48,4 @@
 - Subscripting
     - Custom Subscripts in Swift [:page_facing_up:](https://www.natashatherobot.com/custom-subscripts-swift/) [:page_facing_up:](http://www.codingexplorer.com/custom-subscripts-swift/)
     - AnyObject Subscript [:link:](http://stackoverflow.com/questions/34935538/swift-anyobjects-subscript-where-did-it-come-from)
+    - Swift Collection Subscripting [:page_facing_up:](https://medium.com/@JegnuX/safe-collection-subsripting-in-swift-3771f16f883#.erl0pfgha)

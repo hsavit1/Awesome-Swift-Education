@@ -1,0 +1,53 @@
+#### **UI**
+- Animations
+    - AdaptiveUI Animations [:microphone:](https://realm.io/news/gotocph-sam-davies-adaptive-ui-ios/)
+    - Animating VCs [:page_facing_up:](http://www.raywenderlich.com/110536/custom-uiviewcontroller-transitions)
+    - Transition Treasury Lib [:pencil2:](http://transitiontreasury.com/)
+    - Animations with CAReplicationLayer [:page_facing_up:](http://www.ios-animations-by-emails.com/posts/2015-march)
+    - Building a hamburger button transition [:page_facing_up:](http://robb.is/working-on/a-hamburger-button-transition/)
+    - Advanced Graphics and Animations for iOS Apps [:page_facing_up:](https://developer.apple.com/videos/play/enterprise-419/)
+- Autolayout
+    - iOS Animations with AutoLayout [:microphone:](https://realm.io/news/gotocph-marin-todorov-auto-layout-animations-ios/) and [:pencil2:](https://github.com/sammyd/AdaptiveUI-GOTOConf) [:page_facing_up:](https://littlebitesofcocoa.com/9-animating-constraints)
+    - Cartography Autolayout DSL [:pencil2:](https://github.com/robb/Cartography)
+    - How to configure a UIScrollView with Auto Layout in Interface Builder [:page_facing_up:](http://mokagio.github.io/tech-journal/2015/06/24/ios-scroll-view-and-interface-builder.html)
+- CollectionViews
+    - What's new in Table and Collection Views [:microphone:](https://developer.apple.com/videos/play/enterprise-226/)
+    - Advanced Collection Views [:microphone:](http://devstreaming.apple.com/videos/wwdc/2014/232xxz8gxpbstio/232/232_advanced_user_interfaces_with_collection_views.pdf)
+- Core Animation
+    - Advanced Graphics with Core Animation [:microphone:](https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/)
+    - CALayer.com [:link:](http://calayer.com/)
+- Core Graphics
+    - Core Graphics Tutorial [:page_facing_up:](http://www.raywenderlich.com/90690/modern-core-graphics-with-swift-part-1)
+    - SwiftGL [:link:](http://www.swiftgl.org/)
+    - CocoaOpenGL-Swift [:pencil2:](https://github.com/joshb/CocoaOpenGL-Swift)
+- Core Image
+    - Core Image Blog [:notebook:](http://flexmonkey.blogspot.com/)
+- Presenting
+    - Swifty View Controller Presenters [:microphone:](https://realm.io/news/slug-jesse-squires-swifty-view-controller-presenters/)
+- SpriteKit and Metal
+    + Mixing SpriteKit with UIKit in iOS 9 [:page_facing_up:](https://littlebitesofcocoa.com/8-mixing-spritekit-into-uikit)
+    - SpriteKit as an intro to SceneKit [:floppy_disk:](https://speakerdeck.com/bklnswift/joseph-mcmahon-spritekit-as-an-intro-to-scenekit-and-metal)
+    - Metal and Swift [:microphone:](https://realm.io/news/swift-summit-simon-gladman-metal/)
+    - Why use SpriteKit? [:page_facing_up:](https://www.quora.com/Which-tools-are-you-using-with-SpriteKit)
+    - 3D Graphics with Metal in Swift [:microphone:](https://realm.io/news/3d-graphics-metal-swift/)
+    - Metal Tutorial [:page_facing_up:](https://www.raywenderlich.com/77488/ios-8-metal-tutorial-swift-getting-started)
+- Stack View
+    - Stack View Rotation [:page_facing_up:](https://www.natashatherobot.com/magical-view-rotation-with-stackview/)
+- TableViews
+    - Table View Controllers in Swift [:microphone:](https://realm.io/news/tryswift-chris-eidhof-table-view-controllers-swift/)
+    - Advanced UITableViews [:microphone:](https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/) [:page_facing_up:](http://www.martinrichter.net/blog/2015/12/30/animating-table-row-changes-using-changesets-with-mvvm/)
+    - UITableView Configuration Values [:page_facing_up:](https://www.objc.io/blog/2015/02/16/functional-snippet-20-configuration-values/)
+    - Typed TableViewControllers [:page_facing_up:](https://www.objc.io/blog/2015/02/23/functional-snippet-21-typed-table-view-controllers/) [:page_facing_up:](https://www.objc.io/blog/2015/03/02/functional-snippet-22-typed-table-view-controllers-redux/) [:pencil:](https://gist.github.com/chriseidhof/892c1a574d1f3975c697) [:page_facing_up:](http://holko.pl/2016/01/05/typed-table-view-controller/)
+    - Using Generators for UITableView Pagination Purposes [:page_facing_up:](http://blog.krzyzanowskim.com/2015/06/26/paging/)
+    - Upgrade your TableViews with Loading State in Swift [:page_facing_up:](https://medium.com/swift-programming/upgrade-your-tableviews-with-loading-state-in-swift-1fdce34ada77#.bg6wbtkzc)
+- UIKit
+    - UIKit for the Mac, rewritten in Swift [:pencil2:](https://github.com/unifiedh/Chameleon-Swift)
+    - Did Apple implement UIKit and Cocoa classes "Obj-C on Swift" [:page_facing_up:](https://www.quora.com/Did-Apple-implement-UIKit-and-Cocoa-classes-Obj-C-on-Swift-or-Swift-on-Obj-C-or-did-they-write-the-whole-thing-twice?srid=xrLC&share=59c4c728)
+    - Cocoa Touch Best Practices [:pencil:](https://gist.github.com/rbobbins/236b2160ab9621f3f8e7)
+    - How Do You Do UIView<SomeProtocol> in Swift? [:page_facing_up:](http://nearthespeedoflight.com/article/2016_02_18_how_do_you_do_uiview_someprotocol__in_swift_)
+    - Cross Platform UIKit [:pencil:](https://github.com/PureSwift/Cacao)
+    - Turning UIKit inside out [:floppy_disk:](https://speakerdeck.com/benjamin_encz/turning-uikit-inside-out)
+    - Cocoa APIs in a Swifty world [:microphone:](https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world)
+    - Turning UIKit inside out [:microphone:](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming/)
+
+
