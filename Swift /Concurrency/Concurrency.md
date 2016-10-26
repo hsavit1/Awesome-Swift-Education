@@ -1,0 +1,42 @@
+#### **Concurrency**
+- GCD
+    - The GCD Handbook [:page_facing_up:](http://khanlou.com/2016/04/the-GCD-handbook/)
+    - Apple Concurrency Programming Guide [:page_facing_up:](https://developer.apple.com/library/mac/documentation/General/Conceptual/ConcurrencyProgrammingGuide/ThreadMigration/ThreadMigration.html#//apple_ref/doc/uid/TP40008091-CH105-SW1)
+    + Basics of GCD [:page_facing_up:](https://littlebitesofcocoa.com/85-grand-central-dispatch-basics)
+    + Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
+    + Building Responsive and Efficient Apps with GCD [:microphone:](https://developer.apple.com/videos/play/wwdc2015-718) [:floppy_disk:](http://devstreaming.apple.com/videos/wwdc/2015/718b7aw9tq/718/718_building_responsive_and_efficient_apps_with_gcd.pdf?dl=1)
+    - Back to the main thread: dispatch_get_main_queue [:page_facing_up:](https://www.hackingwithswift.com/read/9/4/back-to-the-main-thread-dispatch_get_main_queue)
+    - GCD and Parallel Collections in Swift [:page_facing_up:](http://moreindirection.blogspot.com/2015/07/gcd-and-parallel-collections-in-swift.html)
+    - GCD convenience functions [:page_facing_up:](http://www.luby.info/2015/02/22/swift-GCD-convenience-functions.html)
+    - dispatch_after [:link:](http://stackoverflow.com/questions/24034544/dispatch-after-gcd-in-swift/24318861#24318861)
+    - Does Swift have constructs for parallel programming through Grand Central Dispatch's dispatch_async? [:link:](http://stackoverflow.com/questions/24072538/does-swift-have-constructs-for-parallel-programming-through-grand-central-dispat)
+    - GCD in Linux and OSX [:pencil2:](https://github.com/elliottminns/echo)
+    - GCD DSL [:pencil2:](https://github.com/mitchtreece/Threader)
+    - GCD's Main Queue vs. Main Thread [:page_facing_up:](http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/)
+    - Use of the terms “queues”, “multicore”, and “threads” in Grand Central Dispatch [:link:](http://stackoverflow.com/questions/21202789/use-of-the-terms-queues-multicore-and-threads-in-grand-central-dispatch)
+    - Grand Central Dispatch vs. NSThread [:link:](http://stackoverflow.com/questions/5653522/grand-central-dispatch-vs-nsthread?rq=1)
+    - GCD in Swift 3 [:page_facing_up:](https://medium.com/swift-and-ios-writing/a-quick-look-at-gcd-and-swift-3-732bef6e1838#.3qr095pi3)
+- NSOperation
+    + NSOperationQueue Dependency Trick [:page_facing_up:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/)
+    + NSOperations and NSOperationQueues [:page_facing_up:](https://medium.com/@raulriera/nsoperations-nsoperationqueue-oh-my-88b707f9ba2e#.ugnvgw9w5)
+    - NSOperation vc Grand Central Dispatch [:page_facing_up:](http://bartjacobs.com/choosing-between-nsoperation-and-grand-central-dispatch/)
+    - NSOperation Class Reference [:link:](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/NSOperation_class/#//apple_ref/c/tdef/NSOperationQueuePriority)
+    - Advanced NSOperations Framework [:pencil2:](https://github.com/danthorpe/Operations)
+- Async
+    - Async Await in Swift [:pencil:](https://gist.github.com/kylesluder/478bf8fd8232bc90eabd) [:pencil2:](https://github.com/jyopp/Swift-Async)
+    - Asynchronous values as first-class citizens [:page_facing_up:](http://www.thomasvisser.me/2015/11/26/async-swift/)
+    - A non-blocking I/O, asynchronous ODM [:pencil2:](https://github.com/elliottminns/orca)
+- Actor Model
+    + Actor Model Concurrency in Swift [:pencil2:](https://github.com/tomekc/SwiftActors)
+    - Swift Actors [:pencil:](https://github.com/tomekc/SwiftActors)
+- Coroutines
+    + Coroutines in Swift [:pencil:](https://gist.github.com/mikeash/454f3ba5c2f575d63cb3)
+    - CSP (Coroutines, Channels, Select) for Swift [:pencil2:](https://github.com/Zewo/Venice)
+    - True coroutines for Swift [:pencil2:](https://github.com/aliceatlas/hexagen)
+- Locking and Threading
+    + STM in Swift [:pencil2:](https://github.com/f-dz-v/SwiftSTM)
+    + Threading with Closures [:page_facing_up:](https://tetontech.wordpress.com/2014/06/30/swift-nsoperationqueues-and-threading/)
+    - Locking in Swift [:page_facing_up:](https://www.bignerdranch.com/blog/locking-in-swift-helping-protect-me-from-myself/)
+    - Custom Threading Operator in Swift [:page_facing_up:](http://ijoshsmith.com/2014/07/05/custom-threading-operator-in-swift/) [:page_facing_up:](https://github.com/ijoshsmith/swift-threading)
+    - Swift Posix [:pencil2:](https://github.com/josh/swift-posix)
+    - Thread vs Queue [:link:](http://stackoverflow.com/questions/23166246/what-is-the-difference-between-thread-and-queue-in-ios-development)

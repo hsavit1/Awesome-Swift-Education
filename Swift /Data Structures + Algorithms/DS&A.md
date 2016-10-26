@@ -1,0 +1,91 @@
+#### **Data Structures and Algorithms**
+- Algorithms
+    + Evolutionary/Genetic Programming in Swift [:pencil2:](https://github.com/NachoSoto/swift-genetics) [:pencil2:](https://github.com/saniul/Mendel)
+    + Disjoint Sets [:pencil2:](https://github.com/antitypical/DisjointSet)
+    + Metaprogrammable [:pencil2:](https://github.com/antitypical/Metaprogrammable)
+    + Fisher-Yates Shuffle for Swift [:pencil:](https://gist.github.com/kballard/8738524e0243a93376ed)
+    - Either Types micro-framework [:pencil2:](https://github.com/robrix/Either) 
+    - Cellular Automaton [:pencil2:](https://github.com/slightair/SwiftCA2D)
+    - Swift Automata [:pencil2:](https://github.com/mikidep/SwiftAutomata)
+- Arrays
+    + Contiguous Arrays in Swift [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/08/09/yet-another-root-of-all-evil/)
+    + NSArrays are implemented with Circular Buffers [:page_facing_up:](https://en.wikipedia.org/wiki/Circular_buffer)
+    + Open sourced CFArray [:link:](http://opensource.apple.com/source/CF/CF-855.11/CFArray.c)
+- Backtracking
+    - Backtracking problem [:link:](https://github.com/davecom/SwiftCSP)
+- Data Structures
+    + Commonly used data structures and algorithms [:pencil2:](https://github.com/waynewbishop/SwiftStructures) [:pencil2:](https://github.com/karan/Swift-Algorithms)
+    - Buckets Swift Collection Data Structures Library [:pencil2:](https://github.com/mauriciosantos/Buckets-Swift/)
+    - Collection data structures in Swift [:pencil2:](https://github.com/lucaslouca/CollectionsKit)
+- Graphs
+    - GraphQL [:pencil:](https://gist.github.com/davbeck/e96b543bc0184b04353e) [:page_facing_up:](http://artsy.github.io/blog/2016/06/19/graphql-for-mobile/)
+    + SwiftGraph [:pencil2:](https://github.com/davecom/SwiftGraph)
+- Hash Table
+    - Hash Table [:page_facing_up:](https://nshacker.wordpress.com/2014/11/14/data-structures-hash-table/#more-136)
+- Image Processing
+    - Swift Image Processing [:pencil2:](https://github.com/skyfe79/SwiftImageProcessing)
+- Language Processing
+    - Naive Bayes Classifier [:pencil2:](https://github.com/fcanas/Bayes)
+    - Linguistics Toolkit [:pencil2:](https://github.com/ayanonagon/Parsimmon)
+- Lists
+    + Deques, Queues, and Lists in Swift with indirect [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/) [:link:](https://github.com/oisdk/Deques-Queues-and-Lists-in-Swift-with-indirect)
+    + Linked Lists are really slow [:page_facing_up:](http://airspeedvelocity.net/2015/08/03/arrays-linked-lists-and-performance/)
+    + Linked Lists, Enums, Value Types [:page_facing_up:](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
+    + Singly Linked List [:pencil:](https://gist.github.com/airspeedswift/7e233e723e458b1eacfe)
+- Learning
+    + Deep learning with Swift [:pencil2:](https://github.com/DeepLearningKit/DeepLearningKit)
+    + Neural Networks in Swift [:pencil2:](https://github.com/vlall/Swift-Brain)
+    + Swift AI [:pencil2:](https://github.com/collinhundley/Swift-AI)
+    - Learning Machine Learning [:pencil2:](https://github.com/graceavery/LearningMachineLearning) [:pencil2:](https://github.com/yconst/YCML)
+    - Standard implementation of an LRU Cache [:page_facing_up:](http://stackoverflow.com/questions/25970415/standard-implementation-of-an-lru-cache) [:pencil2:](https://github.com/questbeat/CacheKit) [:pencil2:](https://github.com/justinmfischer/SwiftlyLRU)
+    - The iOS and OS X neural network framework [:pencil2:](https://github.com/aleph7/BrainCore)
+    - Machine Learning for iOS Explained [:page_facing_up:](http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html)
+    - Layered Neural Network in Swift [:link:](http://codereview.stackexchange.com/questions/95224/layered-neural-network-in-swift)
+    - A back-propagation neural network written in Swift [:pencil:](https://github.com/acavanag/SwiftNeuralNetwork)
+    - Neural Networks in iOS 10 and macOS [:page_facing_up:](https://www.bignerdranch.com/blog/neural-networks-in-ios-10-and-macos/)
+- Math
+    + Swift Matrix Math Library [:pencil2:](http://scottsievert.com/swix/) [:pencil2:](https://github.com/mattt/Surge)
+    + Tensor Methods in Swift [:pencil2:](https://github.com/aleph7/Upsurge)
+    + Abstract Algebraic Structures in Swift 2 [:pencil2:](https://github.com/typelift/Algebra)
+    - SwiftGL Math Library [:pencil2:](https://github.com/SwiftGL/Math)
+    - Sigma Swift Statistics [:pencil2:](https://github.com/evgenyneu/SigmaSwiftStatistics#sample-standard-deviation)
+    - Swift Generic Geometry [:pencil2:](https://github.com/schwa/SwiftGenericGeometry)
+    - Darwin [:link:](http://stackoverflow.com/questions/24012511/mathematical-functions-in-swift)
+    - Abstract Algebra in Swift [:pencil2:](https://github.com/taketo1024/SwiftyAlgebra)
+    - Complex Numbers [:pencil2:](https://github.com/taketo1024/SwiftComplex)
+    - Linear Algebra Swift Extensions [:pencil2:](https://github.com/damienpontifex/LinearAlgebraExtensions)
+    - Matrix Examples Swift [:pencil2:](https://gist.github.com/JadenGeller/8c758cbb218a9c4615dd)
+    - Linear Algebra in Swift [:pencil2:](https://github.com/apexskier/SKLinearAlgebra)
+    - Protocol Oriented Number System [:pencil2:](https://github.com/dankogai/swift-pons)
+    - Examples of Computational Statistics in Swift [:microphone:](https://realm.io/news/trySwift-diana-zmuda-how-to-train-your-swift-computational-statistics/)
+- Persistent
+    - Swift implementation of Clojure's persistent data structures [:pencil2:](https://github.com/jdevuyst/ruminant/)
+- Solutions
+    - Swift Algorithm Club [:pencil2:](https://github.com/raywenderlich/swift-algorithm-club)
+    - Algorithms by CosmicMind [:pencil2:](https://github.com/CosmicMind/Algorithm#sortedmultidictionary)
+    + HackerRank Solutions in Swift [:pencil2:](https://github.com/jindulys/HackerRankSolutions)
+- Sorts
+    - Write a Generic Stable Sort [:pencil2:](http://airspeedvelocity.net/2016/01/10/writing-a-generic-stable-sort/)
+    + Sort Utils [:pencil2:](https://github.com/dsmatter/SwiftSortUtils)
+    - An analysis of sorts [:page_facing_up:](http://www.jessesquires.com/apples-to-apples-part-two/)
+    - Sorting an Array of Dictionaries [:page_facing_up:](http://useyourloaf.com/blog/sorting-an-array-of-dictionaries/)
+- Stacks / Queues
+    + SwiftPriorityQueue [:pencil2:](https://github.com/davecom/SwiftPriorityQueue)
+    + Generic Stack in Swift [:pencil:](https://gist.github.com/aciidb0mb3r/fd147c8c6b1728664fdb) [:page_facing_up:](http://ankit.im/swift/2016/01/02/creating-value-type-generic-stack-in-swift-with-pointers-and-copy-on-write/)
+    + Deques [:pencil2:](https://github.com/lorentey/Deque)
+    + Queues [:page_facing_up:](https://izeeshan.wordpress.com/2016/03/05/queue-in-swift/)
+    - Banker's Queue [:page_facing_up:](http://www.47deg.com/blog/swift-generics-data-types-part-3)
+- Trees
+	- Swift Tree Data Structures [:page_facing_up:](https://www.raywenderlich.com/138190/swift-algorithm-club-swift-tree-data-structure)
+    + Finger Trees in Swift [:pencil2:](https://github.com/lazytype/FingerTree/tree/master) [:pencil2:](https://github.com/335g/FingerTree)
+    + Trees [:pencil:](https://gist.github.com/CodaFi/73bd0d67c8c7dc25b9af)
+    - Calkin–Wilf tree in Swift [:page_facing_up:](http://tel.github.io/posts/calkin-wilf-in-swift/)
+    - In Memory BTrees [:page_facing_up:](https://github.com/lorentey/BTree)
+    + Rose Tree in Swift [:pencil:](https://github.com/typelift/SwiftCheck/blob/master/Sources/Rose.swift)
+    + Binary Tree [:pencil2:](https://github.com/antitypical/BinaryTree)
+    + Abstract Binding Trees [:pencil:](https://gist.github.com/CodaFi/453f369a8790a070d9e2)
+    + Red Black Tree [:pencil:](https://gist.github.com/airspeedswift/8fd42496679c51b34859)
+    + A persistent tree using indirect enums [:page_facing_up:](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
+    + Patricia/Radix trees for Swift [:pencil2:](https://github.com/haveahennessy/Patrician)
+    + A Trie [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/)
+    - Random Forest [:pencil2:](https://github.com/tzukuri/SwiftForest)

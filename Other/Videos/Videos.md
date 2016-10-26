@@ -1,0 +1,20 @@
+## **Videos**
++ Presentations
+    + :fire: pomo.tv Presentations from all of the events [:microphone:](http://www.pomo.tv/events/)
+    + WWDC 2015 Presentations [:microphone:](https://developer.apple.com/search/?q=wwdc&type=Videos) [:pencil2:](https://developer.apple.com/sample-code/wwdc/2015/) [:pencil:](http://asciiwwdc.com/)
+    - All the slides from Swift Summit London 2015 [:link:](https://speakerdeck.com/swiftsummit)
+    + Some talks from Swift Summit SF 2015 [:microphone:](http://www.skilled.io/)  [:page_facing_up:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
+    - All the Presentations from Swift Summit London [:video_camera:](https://realm.io/news/swift-summit/)
+    - All Presentations from #Pragma Conference [:video_camera:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
+    - MobileKonf 2015 [:video_camera:]( https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos)
+    - Functional Swift Conf 2014 [:video_camera:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
+    - Functional Swift Conf 2015 [:video_camera:](http://2015.funswiftconf.com/)
+    - CocoaConf Videos [:video_camera:](http://cocoaconf.com/videos)
+    - All Presentations from 360iDev 2015 [:video_camera:](https://vimeopro.com/360conferences/360idev-2015)
+    - NSSpain 2015 interviews [:video_camera:](https://www.youtube.com/playlist?list=PLKxa4AIfm4pU5xvPbQ1gaWkYXn7KANFz4)
++ Other Videos
+    - Swift Talk [:video_camera:](https://talk.objc.io)
+    - Cocoaheads.tv [:video_camera:](http://cocoaheads.tv/)
+    - Swift Language Youtube Channel [:video_camera:](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
+    - Free Swift Lang Course [:video_camera:](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
+    - Swift tutorial Video Series [:video_camera:](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)

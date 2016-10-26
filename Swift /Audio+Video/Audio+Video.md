@@ -1,0 +1,13 @@
+#### **Audio and Video**
+- Audio
+    - AudioKit [:pencil2:](https://github.com/audiokit/AudioKit)
+    - Wrap Core Audio [:pencil2:](https://github.com/rnine/AMCoreAudio)
+- Video 
+    - Video Player in Swift [:pencil2:](https://github.com/piemonte/Player)
+    - AVFoundation Development page [:link:](https://developer.apple.com/av-foundation/)
+    - HTTP Live Streaming [:link:](http://stackoverflow.com/questions/8291691/implementation-of-http-live-streaming-in-ios/11535000#11535000)
+    - Player for streaming local and remote audio files. [:pencil2:](https://github.com/teodorpatras/Jukebox)
+    - Playing a video file from a server in Swift [:link:](http://stackoverflow.com/questions/25034497/playing-a-video-file-from-a-server-in-swift)
+    - Streaming on iOS [:link:](https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/StreamingMediaGuide/Introduction/Introduction.html)
+    - Realtime H264 decoding library for iOS. [:pencil2:](https://github.com/tidwall/Avios)
+    - The Hypermedia Project [:pencil:](https://github.com/the-hypermedia-project/charter)

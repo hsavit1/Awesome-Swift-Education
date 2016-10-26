@@ -1,0 +1,27 @@
+
+#### **Weird Swift**
+- Pointers
+    - Dereference an UnsafeMutablePointer [:page_facing_up:](http://useyourloaf.com/blog/how-to-dereference-an-unsafe-mutable-pointer-in-swift/)
+    - UnsafePointer [:page_facing_up:](http://en.swifter.tips/unsafe/)
+    - UnsafeMutablePointer [:page_facing_up:](http://sketchytech.blogspot.com/2014/10/becoming-less-afraid-of-unsafe-mutable.html)
+    - COPaquePointer and CFunctionPointer [:page_facing_up:](http://en.swifter.tips/opaque-function-pointer/)
+    - How to Dereference an Unsafe Mutable Pointer in Swift [:page_facing_up:](http://useyourloaf.com/blog/how-to-dereference-an-unsafe-mutable-pointer-in-swift/)
+    - Pointers, Pointer Arithmetic, and Raw Data in Swift [:page_facing_up:](http://stackoverflow.com/questions/24067085/pointers-pointer-arithmetic-and-raw-data-in-swift)
+    - If a function returns an UnsafeMutablePointer is it our responsibility to destroy and dealloc? [:link:](http://stackoverflow.com/questions/25605658/if-a-function-returns-an-unsafemutablepointer-is-it-our-responsibility-to-destro)
+- Advanced
+    - WWDC 2014: Advanced Swift [:microphone:](https://developer.apple.com/videos/play/wwdc2014-404/) [:floppy_disk:](http://devstreaming.apple.com/videos/wwdc/2014/404xxdxsstkaqjb/404/404_advanced_swift.pdf)
+    + Other Swift Attributes you may not have heard of [:page_facing_up:](http://www.russbishop.net/more-swift-attributes)
+    - Hipster Swift [:page_facing_up:](http://krakendev.io/blog/hipster-swift) [:microphone:](https://realm.io/news/tryswift-hector-matos-hipster-swift/)
+    - Namespaces in Swift [:page_facing_up:](http://andybargh.com/2016/01/21/lifetime-scope-and-namespaces-in-swift/) [:page_facing_up:](http://andybargh.com/lifetime-scope-and-namespaces-in-swift/) [:page_facing_up:](http://stackoverflow.com/questions/24002821/how-to-use-namespaces-in-swift/24012981)
+    - Swift Enums as namespace [:page_facing_up:](https://medium.com/swift-programming/swift-enums-as-namespace-7df63a17f36f#.u656hot7j)
+    - Swift Method Dispatching [:page_facing_up:](http://allegro.tech/2014/12/swift-method-dispatching.html)
+    - Global variables in Swift are not variables [:page_facing_up:](http://railsware.com/blog/2014/06/11/global-variables-in-swift-are-not-variables/)
+    - @convention(c) [:page_facing_up:](http://stackoverflow.com/questions/30740560/new-conventionc-in-swift-2-how-can-i-use-it)
+    - Infix [:page_facing_up:](https://swifting.io/blog/2016/02/03/3-infix-operator/)
+    - CVArgType [:page_facing_up:](http://stackoverflow.com/questions/28639154/what-are-the-difference-and-use-cases-for-va-list-cvalistpointer-anyobject)
+    - Hidden Gems in Swift [:microphone:](https://netguru.co/blog/hidden-gems-swift)
+    - A Look At Swift's Elusive ~> Operator [:page_facing_up:](http://natecook.com/blog/2014/11/swifts-elusive-tilde-gt-operator/)
+    - ObjectiveCBridgeable [:page_facing_up:](http://www.russbishop.net/bridges-of-siracusa-county)
+    - Bitmasks in Swift [:pencil:](https://github.com/brynbellomy/SwiftBitmask)
+    - Falsiness In Swift [:page_facing_up:](http://khanlou.com/2016/06/falsiness-in-swift/)
+    - SourceKit [:microphone:](https://realm.io/news/appbuilders-jp-simard-sourcekit/)

@@ -1,0 +1,33 @@
+#### **Production**
+- Dependency Managers
+    - Carthage
+        - How Carthage works [:floppy_disk:](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage) [:floppy_disk:]((https://speakerdeck.com/abizern/carthage))
+    - Cocoapods
+        - Make a Cocoapods Framework [:microphone:](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
+        - Swift, Frameworks & Modules, Learnings from CocoaPods [:page_facing_up:](https://speakerdeck.com/realm/swift-frameworks-and-modules-learnings-from-cocoapods)
+    - SPM
+        - Using the Swift Package Manager [:page_facing_up:](http://kostiakoval.github.io/posts/swift-package-manager) [:page_facing_up:](https://honzadvorsky.com/articles/2016-02-25-14-00-3_steps_to_marry_xcode_with_swift_package_manager/) [:page_facing_up:](http://cjwirth.com/2016/03/07/using-xcode-and-spm-together/)
+        - IBM Swift Package Catalog [:link:](https://swiftpkgs.ng.bluemix.net/)
+        - Exclude folders in the SPM [:page_facing_up:](http://kostiakoval.github.io/posts/exclude-folders-new-feature-in-swift-package-manager)
+        - Swift, Frameworks & Modules, Learnings from CocoaPods [:page_facing_up:](https://speakerdeck.com/realm/swift-frameworks-and-modules-learnings-from-cocoapods)
+        - Swift Package Manager [:floppy_disk:](https://speakerdeck.com/neonichu/swift-package-manager)
+- Modules and frameworks
+    - Modules and Precompiled Headers [:page_facing_up:](http://useyourloaf.com/blog/modules-and-precompiled-headers/)
+    - Building a Swift Framework [:microphone:](https://realm.io/news/marius-rackwitz-challenges-building-swift-framework/)
+- Docker
+    - Deploy and run Swift Kitura Applications with Docker [:page_facing_up:](http://heidloff.net/article/swift-kitura-docker-bluemix)
+    - Docker image that contains all dependencies for building and running the Kitura sample application [:pencil2:](https://github.com/IBM-Swift/kitura-ubuntu-docker)
+    - Docker for iOS Development [:pencil2:](https://github.com/jkingyens/docker4xcode)
+    - How I'm dockerizing Swift web apps [:page_facing_up:](https://blog.kida.io/dockerizing-swift-web-apps/)
+    - Docker containers used for spinning up different Swift web frameworks [:page_facing_up:](https://github.com/joshdholtz/swift-webframeworks-docker)
+    - Easy Server Side Swift with Docker [:page_facing_up:](https://medium.com/@LarsJK/easy-server-side-swift-with-docker-4c297feeeeb5#.p4xdbad2i)
+    - Swift example to run on Kubernetes [:pencil2:](https://github.com/fabric8io/swift)
+    - Run Linux Swift on your Mac or PC with Docker [:page_facing_up:](https://medium.com/@LarsJK/run-linux-swift-on-your-mac-or-pc-c2ea3ffba80b#.8wtaudarb)
+- Other
+    - Naming assets [:pencil:](https://github.com/dkhamsing/ios-asset-names)
+    - Xcode Snippets [:pencil2:](https://github.com/burczyk/XcodeSwiftSnippets)
+    - Bottom Up Programming in Swift [:microphone:](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
+    - Lessons from Production Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
+    - An Ansible playbook for Swift [:page_facing_up:](https://akrabat.com/an-ansible-playbook-for-swift/)
+    - Ansible role to install Swift programming language in Ubuntu [:page_facing_up:](https://galaxy.ansible.com/alexcoppe/swift/)
+    - Danger [:link:](http://danger.systems)

@@ -1,0 +1,41 @@
+#### **Error Handling**
+- Guard
+    + The Value of Guard [:page_facing_up:](http://www.iosinsight.com/the-value-of-guard-in-swift/) [:page_facing_up:](http://natashatherobot.com/swift-guard-better-than-if/)
+    + Guard and Defer [:page_facing_up:](http://nshipster.com/guard-and-defer/)
+    + Defer in Swift [:page_facing_up:](https://sideeffects.xyz/2015/defer-in-swift/)
+    + When to (not) use guard [:page_facing_up:](http://radex.io/swift/guard/) [:page_facing_up:](https://medium.com/swift-programming/why-swift-guard-should-be-avoided-484cfc2603c5#.bg4hxwop2) RE [:page_facing_up:](http://owensd.io/blog/re-why-swift-guard-should-be-avoided/)
+    - Three tips for concise Swift using the Guard statement [:page_facing_up:](https://appventure.me/2016/03/29/three-tips-for-clean-swift-code)
+- Throw
+    + Let it Throw! [:page_facing_up:](http://alisoftware.github.io/2015/12/17/let-it-throw/)
+    - Throws is like an Either Type [:link:](https://twitter.com/al_skipp/status/688672127873085442)
+    - Throwing vs failing vs crashing vs bool [:page_facing_up:](http://sketchytech.blogspot.com/2015/07/swift-20-throwing-vs-failing-vs.html)
+    - Using Swift Throws with Completion Callbacks [:page_facing_up:](https://jeremywsherman.com/blog/2015/06/17/using-swift-throws-with-completion-callbacks/)
+    - Rethrows in Swift 2 [:page_facing_up:](http://sketchytech.blogspot.com/2015/06/closures-that-throw-rethrows-in-swift-20.html) [:page_facing_up:](http://christiantietze.de/posts/2016/02/rethrows/)
+- try / catch
+    + try/catch with asynchronous closures [:page_facing_up:](http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures/)
+    - 'do' or die [:page_facing_up:](https://harlanhaskins.com/2015/06/29/swift-and-haskell-do-or-die.html)
+    - try, catch, do and throw [:page_facing_up:](https://www.hackingwithswift.com/new-syntax-swift-2-error-handling-try-catch)
+    - What Is the Difference Between try, try?, and try! [:page_facing_up:](http://bartjacobs.com/error-handling-in-swift-with-the-try-keyword) [:page_facing_up:](http://stackoverflow.com/questions/32390611/try-try-try-what-s-the-difference-and-when-to-use-each)
+    - Swift do-try-catch syntax [:page_facing_up:](http://stackoverflow.com/questions/30720497/swift-do-try-catch-syntax?rq=1)
+- Asserts
+    - Swift assertions [:page_facing_up:](http://andybargh.com/swift-assertions/)
+    + Using the *assert()* keyword [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
+    - Swift Asserts [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2016-03-04-swift-asserts.html)
+    - The assert manual [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
+    - Assertions in Swift [:page_facing_up:](http://stackoverflow.com/questions/28394173/assertions-in-swift)
+    - Assert vs precondition [:link:](http://stackoverflow.com/questions/29673027/difference-between-precondition-and-assert-in-swift/29673504#29673504)
+- ErrorType
+    - Testing Swift's ErrorType [:microphone:](https://realm.io/news/testing-swift-error-type/)
+    - Swift 2: Error handling using ErrorType, throws, try and do-catch [:page_facing_up:](http://szulctomasz.com/swift-2-error-handling-using-errortype-throws-try-and-do-catch/)
+    + Result: Swift type modelling the success/failure of arbitrary operations [:pencil2:](https://github.com/antitypical/Result)
+- Other
+    - Error Handling in Swift [:floppy_disk:](http://andybargh.com/error-handling-in-swift/)
+    + Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
+    + Swift 2 Error Handling [:page_facing_up:](http://austinzheng.com/2015/06/08/swift-2-control-flow/) [:page_facing_up:](https://www.bignerdranch.com/blog/swift-2-error-handling/) [:page_facing_up:](http://austinzheng.com/2015/09/23/pmatch-control-flow/) [:pencil:](https://gist.github.com/nicklockwood/21495c2015fd2dda56cf) [:page_facing_up:](https://www.bignerdranch.com/blog/error-handling-in-swift-2/)
+    + Unmanaged Type [:page_facing_up:](http://nshipster.com/unmanaged/)
+    + Error Styling in Swift [:pencil:](https://gist.github.com/erica/b203a13b0b71db430801)
+    + Magic Methods in Swift [:page_facing_up:](https://developer.apple.com/swift/blog/?id=15)
+    - Async Error Handling [:page_facing_up:](http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors/) [:floppy_disk:](https://speakerdeck.com/javisoto/ios-conf-singapore-october-2015)
+    - Errors: unexpected, composite, non-pure, external [:page_facing_up:](http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html)
+    - Swift 2 Error Handling vs Result<T, E> [:floppy_disk:](https://speakerdeck.com/inamiy/swift-2-error-handling-vs-result-t-e)
+    - Three Stories of Error Handling in Swift [:microphone:](https://realm.io/news/tryswift-yuta-koshizawa-error-handling-swift/)

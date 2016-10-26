@@ -1,0 +1,57 @@
+#### **Tools**
+- Analyzers
+    - Use the static analyzer sith Swift [:page_facing_up:](http://stackoverflow.com/questions/29326036/is-it-not-possible-to-use-analyze-with-swift)
+    - Can you use Clang static analyzer with Swift [:page_facing_up:](http://stackoverflow.com/questions/30712090/can-clang-static-analyzer-be-used-with-swift)
+- Benchmarking
+    - Practicing Swift Benchmarks [:pencil2:](https://github.com/vsco/swift-benchmarks)
+- Continuous Integration
+    - Using Xcode Bots [:page_facing_up:](http://mjtsai.com/blog/2016/02/11/using-xcode-bots/)
+    - Continuous Integration for Xcode 6 [:microphone:](https://developer.apple.com/videos/play/wwdc2014/415/)
+    - Continuous Integration With Xcode Server [:page_facing_up:](http://useyourloaf.com/blog/continuous-integration-with-xcode-server/)
+    - BuddyBuild Continuous Integration [:link:](http://buddybuild.com/)
+    - Xcode CI, the missing manual [:page_facing_up:](http://faq.sealedabstract.com/xcodeCI/)
+    - Self-hosted CI [:page_facing_up:](https://medium.com/@hello_paja/self-hosted-ci-for-ios-mac-development-f273606ca767#.jd7up9ujd)
+    - Build a Swift Pipeline with Jenkins Workflow [:page_facing_up:](https://dzone.com/articles/build-a-swift-pipeline-with-jenkins-workflow) [:page_facing_up:](http://mmorejon.github.io/en/blog/continuous-integration-jenkins-ios9-xcode/)
+    - Continuous Integrations for iOS Apps [:video_camera:](https://vimeo.com/158290425)
+- Code Coverage
+    - Swift Code Coverage [:pencil2:](https://github.com/realm/SwiftCov)
+    - Continuous Integration and Code Coverage In Xcode [:pencil:](https://gist.github.com/rbobbins/92e2fd3736f842d4ccee)
+    - Code Coverage Xcode 7 [:page_facing_up:](http://mgrebenets.github.io/mobile%20ci/2015/09/21/code-coverage-for-ios-xcode-7)
+    - Slather Code Coverage [:pencil2:](https://github.com/SlatherOrg/slather)
+- Debugging Tools
+    - Xcode Visual Memory Debugger [:page_facing_up:](http://useyourloaf.com/blog/xcode-visual-memory-debugger/)
+    - Profiling Swift Tool [:page_facing_up:](http://irace.me/swift-profiling)
+    - Profiler formatter xcpretty [:pencil2:](https://github.com/larslockefeer/xcpretty-profiler-formatter)
+    - Atom Swift Debugger [:pencil2:](https://github.com/aciidb0mb3r/atom-swift-debugger)
+    - Debugger Optimizers [:page_facing_up:](http://indiestack.com/2016/05/a-tale-of-two-optimizers/)
+    - Cocoalumberjack [:pencil2:](https://github.com/CocoaLumberjack/CocoaLumberjack)
+- Delivery Tools
+    - Continuous Delivery with Fastlane [:microphone:](https://vimeo.com/146505670)
+    - Using Fastlane [:page_facing_up:](https://github.com/jacobvanorder/FastlaneCocoaConf2016/blob/master/Speeding_Up_Your_iOS_Development_With_Fastlane.pdf)
+    - Ship C code with Swift packages using Swift package manager [:page_facing_up:](http://ankit.im/swift/2015/12/27/ship-c-code-with-swift-packages-using-swift-package-manager/)
+    - Codeship iOS [:pencil2:](https://github.com/beanieboi/codeship-ios)
+- Development Tools
+    - Jazzy Docs [:page_facing_up:](https://github.com/realm/jazzy) [:floppy_disk:](https://speakerdeck.com/jpsim/overview-of-jazzy-soulful-docs-for-swift)
+- Docker Tools
+    - How to run Swift within a Docker container [:page_facing_up:](https://developer.ibm.com/swift/2015/12/15/running-swift-within-docker/)
+    - Docker Swift [:pencil2:](https://github.com/swiftdocker/docker-swift)
+- Server Tools
+    - Heroku Buildpack for Swift [:pencil2:](https://github.com/kylef/heroku-buildpack-swift)
+- Swift Tools
+    - Exploring Graph Theory with OmniGraffle and Swift [:page_facing_up:](http://www.mattrajca.com/2015/05/22/exploring-graph-theory-with-omnigraffle-and-swift.html)
+    - Swift Snippets [:page_facing_up:](https://github.com/hyperoslo/SwiftSnippets)
+    - Swift Environment [:pencil2:](https://github.com/kylef/swiftenv)
+- Xcode Extensions
+	- Xcode Extensions [:page_facing_up:](https://medium.com/appnroll-publication/xcode-extensions-db289d8230b#.2ziveqysb)
+- Xcode Tools
+    - Alcatraz Master Repository [:pencil2:](https://github.com/alcatraz/Alcatraz)
+    - Cocoa Layout Instrument [:page_facing_up:](https://www.bignerdranch.com/blog/inpecting-auto-layout-with-the-cocoa-layout-instrument/)
+    - IBAnimatable [:pencil2:](https://github.com/JakeLin/IBAnimatable)
+    - Draw in Interface Builder [:pencil2:](https://github.com/ipraba/EPShapes)
+    - VVDocumenter [:pencil2:](https://github.com/onevcat/VVDocumenter-Xcode)
+    - Analytics workflow in Swift [:pencil2:](https://github.com/brianmichel/Swift-Analysis-Workflow)
+    - Anarchy Swift Build Tools [:pencil2:](https://github.com/AnarchyTools)
+    - Refractor Swift Code with Refractorer [:pencil2:](https://github.com/johnno1962/Refactorator)
+    - xcbuild Build Tool [:pencil2:](https://github.com/facebook/xcbuild)
+    - Speeding Up Slow Swift Build Times [:page_facing_up:](https://medium.com/swift-programming/speeding-up-slow-swift-build-times-922feeba5780#.96anpx7tq)
+    - SwiftCompilationPerformanceReporter [:pencil2:](https://github.com/tumblr/SwiftCompilationPerformanceReporter)

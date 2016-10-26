@@ -1,0 +1,12 @@
+#### **Security**
+- Cryptography with Swift [:microphone:](https://realm.io/news/swift-summit-marcin-krzyzanowski-cryptoswift-cryptography/) [:pencil2:](https://github.com/krzyzanowskim/CryptoSwift)
+- Encryptor / Decryptor Data Format [:pencil2:](https://github.com/RNCryptor/RNCryptor)
+- CommonCrypto in Swift [:microphone:](https://realm.io/news/danny-keogan-swift-cryptography/)
+- Ceaser Cipher in Swift [:page_facing_up:](https://www.objc.io/blog/2015/01/26/functional-snippet-17-caesar-ciphers/) [:page_facing_up:](http://ijoshsmith.com/2015/04/14/caesar-cipher-in-swift/)
+- Swift-ly secure [:microphone:](https://realm.io/news/seth-law-swift-security/)
+- Common Crypto [:page_facing_up:](http://sketchytech.blogspot.com/2016/02/resurrecting-commoncrypto-in-swift-for.html) [:pencil2:](https://github.com/iosdevzone/IDZSwiftCommonCrypto)
+- Reverse Engineering iOS Apps [:microphone:](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
+- Security and Your Apps [:microphone:](https://developer.apple.com/videos/play/wwdc2015/706/)
+- Make iOS apps more secure with SSL pinning [:page_facing_up:](https://infinum.co/the-capsized-eight/articles/how-to-make-your-ios-apps-more-secure-with-ssl-pinning)
+- Security Framework Wrapper [:pencil2:](https://github.com/henrinormak/Heimdall)
+- SwCrypt [:pencil2:](https://github.com/soyersoyer/SwCrypt)

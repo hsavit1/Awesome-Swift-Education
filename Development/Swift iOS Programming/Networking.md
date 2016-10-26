@@ -1,0 +1,27 @@
+#### **Web Services, Routing, and Networking**
++ Networking
+    - Networking in Swift [:microphone:](https://talk.objc.io/episodes/S01E01-networking)
+    - AlamoFire Tutorial [:page_facing_up:](http://www.raywenderlich.com/121540/alamofire-tutorial-getting-started)
+    + SwiftHTTPStatusCodes [:pencil:](https://github.com/rhodgkins/SwiftHTTPStatusCodes)
+    + Calling a REST Api in Swift [:page_facing_up:](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
+    + How to Make REST API Calls and Parse JSON with Swift [:page_facing_up:](http://devdactic.com/rest-api-parse-json-swift/)  [:page_facing_up:](http://stackoverflow.com/questions/24162051/best-architectural-approaches-for-building-ios-networking-applications-rest-cli)
+    + HTTP in Swift [:page_facing_up:](https://medium.com/swift-programming/http-in-swift-693b3a7bf086) [:link:](http://stackoverflow.com/questions/24016142/how-to-make-an-http-request-in-swift)
+    + Reachability Library [:page_facing_up:](https://github.com/ashleymills/Reachability.swift)
+    - NSURLSession Basics [:page_facing_up:](https://littlebitesofcocoa.com/78-nsurlsession-basics) [:page_facing_up:](http://www.splinter.com.au/2015/06/12/swift-nsurlsession-wrapper/) [:page_facing_up:](http://www.raywenderlich.com/110458/nsurlsession-tutorial-getting-started)
+    - Background Downloads [:page_facing_up:](https://littlebitesofcocoa.com/77-background-downloads)
+    - Background Transfer Services [:microphone:](https://realm.io/news/gwendolyn-weston-ios-background-networking/)
+    - An introduction to using Alamofire [:page_facing_up:](http://nshipster.com/alamofire/)
+    - Moya: Network Abstraction Layer written in Swift [:pencil2:](https://github.com/Moya/Moya)
+    - Network data as a Struct [:page_facing_up:](http://chris.eidhof.nl/posts/struct-semantics-in-swift.html)
+    - Your app and next generation networks [:microphone:](https://developer.apple.com/videos/play/wwdc2015/719/)
+    - Tiny Networking [:microphone:](http://www.thedotpost.com/2016/01/chris-eidhof-tiny-networking-in-swift)
++ Routing
+    - Understanding Routing with Swift [:page_facing_up:](https://karlbowden.com/featherweight-router-tldr/)
+    - An AlamoFire Router [:page_facing_up:](https://littlebitesofcocoa.com/93-creating-a-router-for-alamofire) [:page_facing_up:](https://grokswift.com/router/)
+    - Write Your Own API Clients [:page_facing_up:](https://thatthinginswift.com/write-your-own-api-clients-swift/)
++ Web Services
+    + CloudKit Introduction [:page_facing_up:](http://szulctomasz.com/2015/10/27/cloudkit-introduction-and-lets-build-an-app.html)
+    + Create a Data Access Layer with SQLite.swift and Swift 2 [:page_facing_up:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
+    + Using YapDatabase [:page_facing_up:](https://github.com/yapstudios/YapDatabase)
+    - MagicalRecord loves Swift [:microphone:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
+    - Swift-MongoDB [:pencil2:](https://github.com/Danappelxx/SwiftMongoDB)

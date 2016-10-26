@@ -1,0 +1,25 @@
+#### **Strings and Regular Expressions**
++ Strings
+    + Swift String Cheat Sheet [:page_facing_up:](http://useyourloaf.com/blog/swift-string-cheat-sheet.html) [:pencil:](https://gist.github.com/kharrison/08d1db4169d70a88b194)
+    + How is the String type implemented? [:page_facing_up:](https://www.quora.com/Apple-Swift-programming-language/How-is-the-String-type-implemented)
+    + Useful String Library [:pencil2:](https://github.com/erica/SwiftString)
+    - Symbology in Swift [:page_facing_up:](http://ericasadun.com/2016/01/13/a-few-thoughts-on-swift-symbologygist/)
+    - Functional String Ranges [:page_facing_up:](https://www.natashatherobot.com/swift-string-ranges-the-functional/)
+    - ICU Text Transforms in Cocoa [:page_facing_up:](http://oleb.net/blog/2016/01/icu-text-transforms/)
+    - Swift Substrings [:page_facing_up:](http://vluxe.io/swift-sub-strings.html)
+    - DSL for Attributed Strings [:pencil2:](https://github.com/delba/TextAttributes)
+    - Functional String Formatting [:page_facing_up:](https://github.com/stephencelis/Formatting)
++ Lexing and Parsing
+    - Abstract Syntax Tree [:page_facing_up:](http://ankit.im/swift/2016/02/29/swift-abstract-syntax-tree/)
+    + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
+    + Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/) [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)
+    + String to Number Parser [:pencil2:](https://github.com/davedelong/DDMathParser)
+    + Madness: Parsing strings in simple context-free grammars [:pencil2:](https://github.com/robrix/Madness)
+    - Swift version of the Coco/R Compiler Generator [:pencil2:](https://github.com/mgriebling/Coco)
+    - CSV Parser [:page_facing_up:](https://github.com/Daniel1of1/CSwiftV)
++ Regular Expressions
+    + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex) [:page_facing_up:](http://en.swifter.tips/regex/) [:page_facing_up:](http://benscheirman.com/2014/06/regex-in-swift/)
+    + NSRegularExpression Cheat Sheet [:page_facing_up:](http://www.raywenderlich.com/86205/nsregularexpression-swift-tutorial)
+    + Clean Regular Expressions in Swift [:page_facing_up:](http://nomothetis.svbtle.com/clean-regular-expressions-using-conversions)
+    + Simple Regex [:pencil:](https://gist.github.com/mattt/3f12f56d72b8d2ebbe62)
+    + Verbal Expressions style RegEx [:pencil2:](https://github.com/VerbalExpressions/SwiftVerbalExpressions)

@@ -1,0 +1,13 @@
+## **Open Source Swift**
+- Apple Master Github Repository [:crown:](https://github.com/apple)
+- Swift Master Repository [:pencil2:](https://github.com/apple/swift)
+- Download Swift [:link:](https://swift.org/download/#latest-development-snapshots)
+- Core Libs Unimplemented Parts [:pencil2:](https://github.com/apple/swift-corelibs-foundation/search?utf8=%E2%9C%93&q=NSUnimplemented)
+- Swift Core Libs Foundation Repository [:pencil2:](https://github.com/apple/swift-corelibs-foundation)
+- Swift Core Libs Dispatch Repository [:pencil2:](https://github.com/apple/swift-corelibs-libdispatch)
+- Swift Clang Repository [:pencil2:](https://github.com/apple/swift-clang)
+- Swift LLDB Repository [:pencil2:](https://github.com/apple/swift-lldb)
+- Swift Packages [:pencil2:](https://github.com/donald-pinckney/swift-packages)
+- Swift Compiler Crashes [:pencil2:](https://github.com/practicalswift/swift-compiler-crashes)
+- Latest Code changes in Swift [:link:](https://developer.apple.com/library/ios/releasenotes/General/iOS93APIDiffs/Swift/Swift.html)
+- Diving into the Swift Ecosystem [:microphone:](https://realm.io/news/tryswift-syo-ikeda-swift-ecosystem/)

@@ -1,0 +1,10 @@
+#### **Linux**
+- Intro to Swift Dev on Linux [:page_facing_up:](http://www.raywenderlich.com/122189/introduction-to-open-source-swift-on-linux) [:page_facing_up:](https://www.twilio.com/blog/2015/12/getting-started-with-swift-on-linux.html)
+- Dynamic Swift Framework Without Xcode [:page_facing_up:](http://dduan.net/post/2015/07/dynamic-swift-framework-without-xcode/)
+- Foundation on Linux [:page_facing_up:](http://dev.iachieved.it/iachievedit/foundation-on-linux/)
+- NSLinux Strings [:pencil2:](https://github.com/johnno1962/NSLinux)
+- interact with Linux GPIO/SPI on ARM [:pencil2:](https://github.com/uraimo/SwiftyGPIO)
+- Concurrency on Linux [:page_facing_up:](https://developer.ibm.com/swift/2016/02/22/talking-about-swift-concurrency-on-linux/)
+- Power Linux [:page_facing_up:](https://developer.ibm.com/swift/2016/02/01/swift-on-power-linux/)
+- Foundation on Linux [:page_facing_up:](http://dev.iachieved.it/iachievedit/foundation-on-linux/)
+- Practical Cross-Platform Swift [:microphone:](https://realm.io/news/tryswift-jp-simard-practical-cross-platform-swift/)

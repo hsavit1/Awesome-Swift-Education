@@ -1,0 +1,66 @@
++ Initialization
+    - Initialization in Swift 2 part series [:page_facing_up:](https://www.raywenderlich.com/119922/swift-tutorial-initialization-part-1) [:page_facing_up:](https://www.raywenderlich.com/121603/swift-tutorial-initialization-part-2)
+    + Swift Initializers [:page_facing_up:](http://ashfurrow.com/blog/swift-initializers/)
+    + Be Mindful of Your Filters [:page_facing_up:](http://owensd.io/blog/be-mindful-of-your-filters/)
+    + Swift Initialization and the Pain of Optionals [:page_facing_up:](http://blog.scottlogic.com/2014/11/20/swift-initialisation.html)
+    + Initializers for Structs [:page_facing_up:](http://www.codingexplorer.com/structures-swift/)
+    + Swift init() [:page_facing_up:](http://merowing.info/2015/11/swift-init/)
+    + Public Getter, Private Setter [:page_facing_up:](https://www.natashatherobot.com/swift-magic-public-getter-private-setter/)
+    - What are get and set? [:page_facing_up:](http://stackoverflow.com/questions/24699327/swift-what-are-get-and-set)
+    - Why is the convenience keyword needed in Swift? [:link:](http://stackoverflow.com/questions/30896231/why-convenience-keyword-is-even-needed-in-swift)
+    - When should I use deinit? [:link:](http://stackoverflow.com/questions/24018758/when-should-i-use-deinit)
+    - Designated and Convenience initializers in Swift [:page_facing_up:](http://www.codingexplorer.com/designated-initializers-convenience-initializers-swift/)
+    - Writing Class Initalizers [:page_facing_up:](http://www.codingexplorer.com/class-initializers/)
+    + Swift Failiable Initializers [:page_facing_up:](http://www.jessesquires.com/swift-failable-initializers-revisited/)
+    - Designated Initializer Basics [:page_facing_up:](https://littlebitesofcocoa.com/204-swift-designated-initializer-basics)
+    - Dynamic Init [:pencil:](https://gist.github.com/Ben-G/cb1708b1068d2bc5916f)
+    + Definitive Variable Initialization [:page_facing_up:](https://medium.com/the-traveled-ios-developers-guide/on-definitive-initialization-54284ef5c96f#.5wdzuyrev)
+    - Lazy initialization [:page_facing_up:](http://mikebuss.com/2014/06/22/lazy-initialization-swift/)
+    - Default initializer [:link:](http://stackoverflow.com/questions/25327168/default-initializer-in-swift?rq=1)
+    - Common Initializer Patterns in Swift [:page_facing_up:](http://basememara.com/common-initializer-patterns-swift/)
++ Properties
+    + Type Properties
+        + Instance property vs static type property vs computed type property [:page_facing_up:](http://stackoverflow.com/questions/24087936/how-do-i-make-class-methods-properties-in-swift)
+        - About Type properties [:page_facing_up:](http://stackoverflow.com/a/24138580/2855836)
+    + Stored Properties
+        + Stored Properties [:page_facing_up:](https://www.quora.com/Apple-Swift-programming-language/What-is-a-stored-property)
+        - List of class' properties [:link:](http://stackoverflow.com/questions/24844681/list-of-classs-properties-in-swift?lq=1)
+    - Named Parameters
+        - Named Parameters [:page_facing_up:](http://owensd.io/blog/named-parameters/)
+        - Intuition behind the Swift external/local parameter system [:page_facing_up:](https://jeremywsherman.com/blog/2014/06/05/intuition-behind-swift-external-local-parameter-system/)
+        - Swift named parameters [:page_facing_up:](http://useyourloaf.com/blog/swift-named-parameters.html)
+    - Property Observers
+        - Property Observers and Lazy Properties [:page_facing_up:](https://littlebitesofcocoa.com/179-swift-tricks-properties)
+        + Property Observers [:page_facing_up:](https://www.quora.com/Apple-Swift-programming-language/What-is-a-property-observer)
+        - Swift Property Observers [:page_facing_up:](http://www.codingexplorer.com/swift-property-observers/)
+    - IBOutlets
+        - Outlets: Strong! Or Weak? [:page_facing_up:](http://scottberrevoets.com/2016/03/21/outlets-strong-or-weak/)
+        + IBOutlet Style in Swift [:page_facing_up:](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)
+    - Computed Properties
+        - Beware of Computed Properties [:page_facing_up:](https://www.natashatherobot.com/swift-computed-properties/)
+        - How to use swift computed properties [:page_facing_up:](http://adamdelong.com/how-to-use-swift-computed-properties-to-create-a-simple-goal-tracker-class/)
+        - Computed Properties and Initializers [](http://www.codingexplorer.com/swift-extensions/)
+        - Static Vars are Lazy in Swift [:link:](https://developer.apple.com/swift/blog/?id=7)
+        + Lazy Properties in Structs [:page_facing_up:](http://oleb.net/blog/2015/12/lazy-properties-in-structs-swift/)
+        - Turn Computed Property into Lazy Property [:page_facing_up:](http://kostiakoval.github.io/posts/turn-computed-property-into-lazy-roperty)
+    + Static Properties
+        - Static Properties [:page_facing_up:](https://www.hackingwithswift.com/read/0/18/static-properties-and-methods)
+        - Does Swift have class level static variables [:page_facing_up:](http://stackoverflow.com/questions/26804066/does-swift-have-class-level-static-variables?lq=1)
+        - Static vs class functions/variables in Swift classes? [:link:](http://stackoverflow.com/questions/29636633/static-vs-class-functions-variables-in-swift-classes)
+    + Read-only
+        - Read-only and non-computed variable properties [:link:](http://stackoverflow.com/questions/24081194/read-only-and-non-computed-variable-properties-in-swift)
+    + Atomicity
+        - Nonatomic in Swift [:link:](https://forums.developer.apple.com/thread/25642)
++ Dependency Injection
+    + You Used To Inject Me In Your Constructor [:floppy_disk:](https://speakerdeck.com/mathonsunday/you-used-to-inject-me-in-your-constructor)
+    - How to Dependency Inject on iOS [:microphone:](https://www.youtube.com/watch?v=384rumYOs-g)
+    - Dependency Injection in Swift [:page_facing_up:](https://medium.com/ios-os-x-development/dependency-injection-in-swift-a959c6eee0ab#.r2gq9cjv7) [:page_facing_up:](http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift/) [:page_facing_up:](https://medium.com/ios-os-x-development/dependency-injection-in-view-controllers-9fd7d2c77e55#.wxwnwtqmo)
+    + Dependency Injection with a Custom Initializer [:page_facing_up:](https://www.natashatherobot.com/swift-dependency-injection-with-a-custom-initializer/)
+    - Dependency Injection Container [:pencil2:](https://github.com/AliSoftware/Dip) [:pencil2:](https://github.com/AliSoftware/Dip-UI)
+    - Nuts and Bolts of Dependency Injection in Swift [:page_facing_up:](http://bartjacobs.com/dependency-injection-in-swift/)
+    - Inversion of Control and Dependency Injection [:pencil2:](https://github.com/jgretz/CoreMeta)
+    - Swift Dependency Injection Framework [:pencil2:](https://github.com/knightswhosaynil/Apodidae) [:pencil2:](https://github.com/Swinject/Swinject)
+    - Swift Injection Wesite [:link:](https://yoichitgy.github.io/)
+    - Property Injection [:page_facing_up:](https://sharpfivesoftware.com/2015/02/17/testing-singletons-in-swift-property-injection/)
+    - Constructor Injection [:page_facing_up:](https://sharpfivesoftware.com/2015/02/03/testing-singletons-in-swift/)
+    - DIY: Build Your Own Dependency Injection Library [:microphone:](https://realm.io/news/android-pierre-yves-ricau-build-own-dependency-injection/)
