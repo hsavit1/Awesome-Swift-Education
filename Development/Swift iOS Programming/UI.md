@@ -49,5 +49,5 @@
     - Turning UIKit inside out [:floppy_disk:](https://speakerdeck.com/benjamin_encz/turning-uikit-inside-out)
     - Cocoa APIs in a Swifty world [:microphone:](https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world)
     - Turning UIKit inside out [:microphone:](https://realm.io/news/altconf-benji-encz-uikit-inside-out-declarative-programming/)
-
+    - A UIView that uses Flexbox for layouting [:pencil2:](https://github.com/robb/FLXView)
 

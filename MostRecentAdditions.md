@@ -61,13 +61,17 @@
 - Case Closed: A Dive into Open Enumerations [:page_facing_up:](http://jasdev.me/open-enums)
 - Behind the Scenes with iOS Security [:floppy_disk:](https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf)
 - Structs and mutation in Swift [:page_facing_up:](http://chris.eidhof.nl/post/structs-and-mutation-in-swift/)
+- Strings in Swift 3 [:page_facing_up:](https://oleb.net/blog/2016/08/swift-3-strings/)
+- Swift 3 Warning of Unused Result [:page_facing_up:](http://useyourloaf.com/blog/swift-3-warning-of-unused-result/)
+- Swift to React Native [:floppy_disk:](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0)
+- A UIView that uses Flexbox for layouting [:pencil2:](https://github.com/robb/FLXView)
+- MVVM-C A simple way to navigate [:page_facing_up:](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
 
 -- Havent Integrated Yet -- 
+
 - A Swift DSL that allows concise and effective concurrency manipulation [:pencil2:](https://github.com/jmfieldman/Brisk)
 - SwiftJava [:pencil2:](https://github.com/SwiftJava/SwiftJava)
-- A UIView that uses Flexbox for layouting [:pencil2:](https://github.com/robb/FLXView)
 - Retry [:pencil2:](https://github.com/icanzilb/Retry)
-- Swift to React Native [:floppy_disk:](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0)
 - RxSwift on iOS - Where to start the adventure [:page_facing_up:](https://blog.autsoft.hu/rxswift-on-ios-where-to-start-the-adventure)
 - Dependency Analyzer Tool for Swift Projects [:penxil2:](https://github.com/wojteklu/depcheck)
 - GraphQL on iOS [:page_facing_up:](http://artsy.github.io/blog/2016/06/19/graphql-for-mobile/)
@@ -83,10 +87,8 @@
 - My Least Favorite Thing About Swift [:page_facing_up:](http://khanlou.com/2016/08/my-least-favorite-thing-about-swift/)
 - Safe collection subscripting in Swift [:page_facing_up:](https://medium.com/@JegnuX/safe-collection-subsripting-in-swift-3771f16f883#.bpfebnpvo)
 - Building Reactive Apps with Realm: Episode 1 [:page_facing_up:](https://realm.io/news/marin-todorov-building-reactive-apps-with-realm-episode-1-swift-ios/)
-- Strings in Swift 3 [:page_facing_up:](https://oleb.net/blog/2016/08/swift-3-strings/)
 - Sort Descriptors in Swift [:page_facing_up:](http://chris.eidhof.nl/post/sort-descriptors-in-swift/)
 - Values and errors, part 2: eight languages compared [:page_facing_up:](http://www.cocoawithlove.com/blog/2016/08/23/result-types-part-two.html)
-- MVVM-C A simple way to navigate [:page_facing_up:](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/)
 - Xcode 8 extensions [:page_facing_up:](https://theswiftdev.com/2016/08/17/xcode-8-extensions/)
 - Notifications in iOS 10 [:page_facing_up:](https://swifting.io/blog/2016/08/22/23-notifications-in-ios-10)
 - Producer Consumer Problem in Swift [:page_facing_up:](http://threadinswift.blogspot.com/)
@@ -124,7 +126,6 @@
 - Real World Swift Performance [:microphone:](https://realm.io/news/real-world-swift-performance)
 - Probably is a set of Swift structures for computing the probability and cumulative distributions of different probablistic functions. [:pencil2:](https://github.com/harlanhaskins/Probably)
 - SwiftyAttributes [:pencil2:](https://github.com/eddiekaiger/SwiftyAttributes)
-- Swift 3 Warning of Unused Result [:page_facing_up:](http://useyourloaf.com/blog/swift-3-warning-of-unused-result/)
 - Swift Initializer Generator [:pencil2:](https://github.com/Bouke/SwiftInitializerGenerator)
 - MVVM is okay at what it is supposed to do [:page_facing_up:](http://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/#knowledge-is-the-true-bottleneck)
 
