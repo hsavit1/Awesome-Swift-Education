@@ -14,7 +14,7 @@
     - What is Functional Reactive Programming? [:link:](http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming/1030631#1030631)
     - The Non-Reactive Solution [:page_facing_up:](http://inessential.com/2016/04/04/the_non-reactive_solution)
     - Simple Reactive Programming [:pencil:](https://gist.github.com/monyschuk/07be2c45c2a7157522f7)
-    - The Reactive Revolution of Swift [:page_facing_up:](https://sideeffects.xyz/2016/03/29/the-reactive-revolution-of-swift.html)
+    - The Reactive Revolution of Swift [:page_facing_up:](https://sideeffects.xyz/2016/the-reactive-revolution-of-swift/)
 + MVVM
   	+ MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
     - Modern application architectures (Reactive programming, MVVM and beyond) [:page_facing_up:](https://slack-files.com/T051G5Y6D-F0HABHKDK-8e9141e191)
