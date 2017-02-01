@@ -242,7 +242,7 @@
 - [Lesson In Swift Through Haskell](http://www.slideshare.net/JoeBurgess1/lesson-in-swift-through-haskell)
 - [Composability with Swift](https://speakerdeck.com/bontojr/composability-with-swift)
 - [Monads are not Monsters](https://speakerdeck.com/bontojr/monads-are-not-monsters-uikonf-2015)
-- [The Reactive Revolution of Swift](https://sideeffects.xyz/2016/03/29/the-reactive-revolution-of-swift.html)
+- [The Reactive Revolution of Swift](https://sideeffects.xyz/2016/the-reactive-revolution-of-swift/)
 - [Refactoring to: Parameter Objects](https://www.natashatherobot.com/parameter-objects/)
 - [Cocoa APIs in a Swifty world](https://www.skilled.io/saulmora/cocoa-apis-in-a-swifty-world)
 - [Simple Asynchronous Swift code with ReactiveCocoa 4](https://www.skilled.io/javiersoto/simple-asynchronous-swift-code-with-reactivecocoa-4)
