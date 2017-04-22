@@ -13,6 +13,8 @@
     - Self-hosted CI [:page_facing_up:](https://medium.com/@hello_paja/self-hosted-ci-for-ios-mac-development-f273606ca767#.jd7up9ujd)
     - Build a Swift Pipeline with Jenkins Workflow [:page_facing_up:](https://dzone.com/articles/build-a-swift-pipeline-with-jenkins-workflow) [:page_facing_up:](http://mmorejon.github.io/en/blog/continuous-integration-jenkins-ios9-xcode/)
     - Continuous Integrations for iOS Apps [:video_camera:](https://vimeo.com/158290425)
+- Converters
+    - Swiftify Objective-C to Swift online code converter and Xcode extension [:page_facing_up:](https://objectivec2swift.com/)
 - Code Coverage
     - Swift Code Coverage [:pencil2:](https://github.com/realm/SwiftCov)
     - Continuous Integration and Code Coverage In Xcode [:pencil:](https://gist.github.com/rbobbins/92e2fd3736f842d4ccee)
