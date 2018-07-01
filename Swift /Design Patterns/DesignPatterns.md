@@ -10,6 +10,7 @@
     - Why you shouldn’t use delegates in Swift [:page_facing_up:](https://medium.com/cobe-mobile/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b#.b554uyotk)
 - Design Patterns
     - Overview
+        - Awesome Design Pattern collection implemented in Swift 4 [:page_facing_up:](https://github.com/oleh-zayats/design-patterns-swift)
         - Swift Design Patqerns [:floppy_disk:](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7) [:page_facing_up:](http://www.raywenderlich.com/86053/intermediate-design-patterns-in-swift)
         + Design Patterns Library in Swift [:page_facing_up:](https://github.com/ochococo/Design-Patterns-In-Swift)
         + SOLID Design in Swift [:pencil2:](https://github.com/ochococo/OOD-Principles-In-Swift)
